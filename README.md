@@ -14,5 +14,8 @@ Academic dishonesty has been detected and the data needs to be fleshed out in or
   -Scores by school size were largely unaffected
   -Scores by school type were largely unaffected
 
+![School District Results Corrected.png](https://github.com/crabrandoom/school_district_analysis/blob/main/Resources/School%20District%20Results%20Corrected.PNG)
+
+
 ## Summary
 Thomas High School overall passing percentage with 9th grade omitted dropped by 0.3%. The percent passing math for Thomas High School dropped by 0.1%. The percent passing reading for Thomas High School dropped by 0.3%. Overall the district percentage of passing was decreased from 65% to 64.1%.
