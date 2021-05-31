@@ -7,7 +7,7 @@ Academic dishonesty has been detected and the data needs to be fleshed out in or
 - The district summary overall passing percentage decreased from 65% to 64.1%
 - The school summary data that was affected was contained to the Thomas High School data with the overall passing percentage dropping from 90.1% to 90.63%
 - Replacing the 9th grade scores severely dropped off the pass percentage as compared to other schools
-- Replacingg the 9th grade scores affected
+- Replacing the 9th grade scores affected
   -Math scores by decreasing their average
   -Reading scores by increasing their average
   -Scores by school spending were largely unaffected 
